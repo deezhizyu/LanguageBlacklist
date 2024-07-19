@@ -1,0 +1,3 @@
+blacklist: []
+message: "Your language settings is not allowed."
+shouldBan: false

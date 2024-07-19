@@ -1,0 +1,4 @@
+name: LanguageBlacklist
+version: '1.0'
+main: org.deezhizyu.LanguageBlacklist
+api-version: '1.21'
